@@ -1,4 +1,4 @@
- # 230V AC to ±12V DC Regulated Power Supply
+  # 230V AC to ±12V DC Regulated Power Supply
 
 A simple and reliable **regulated dual power supply circuit** that converts **230V AC mains voltage into ±12V DC output**. This type of power supply is commonly used in **operational amplifier circuits, audio amplifiers, and analog electronics projects**.
 
